@@ -1,4 +1,4 @@
-# gemini_chat_app_tutorial
+# Libra_Ai
 
 A new Flutter project.
 
